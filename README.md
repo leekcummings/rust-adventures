@@ -5,3 +5,4 @@ I want to learn Rust, and I have a month-long winter break to work on it. This m
 - [Day 0](day0): Hello World
 - [Day 1](day1): Fizzbuzz (two versions!)
 - [Day 2](day2): Creepy Dating
+- [Day 3](day3): Primes from 1-100
