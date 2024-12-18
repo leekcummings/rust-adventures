@@ -6,3 +6,4 @@ I want to learn Rust, and I have a month-long winter break to work on it. This m
 - [Day 1](day1): Fizzbuzz (two versions!)
 - [Day 2](day2): Creepy Dating
 - [Day 3](day3): Primes from 1-100
+- [Day 4](day4): Rock, Paper, Scissors
