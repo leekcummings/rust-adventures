@@ -9,3 +9,4 @@ I want to learn Rust, and I have a month-long winter break to work on it. This m
 - [Day 4](day4): Rock, Paper, Scissors
 - [Day 5](day5): Regex Murder Mystery Part 1 (file reading, regex)
 - [Day 6](day5): Regex Murder Mystery Part 2 (file writing, regex continued)
+- [Day 7](day7): Random Card Picker
