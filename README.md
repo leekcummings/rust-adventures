@@ -8,4 +8,4 @@ I want to learn Rust, and I have a month-long winter break to work on it. This m
 - [Day 3](day3): Primes from 1-100
 - [Day 4](day4): Rock, Paper, Scissors
 - [Day 5](day5): Regex Murder Mystery Part 1 (file reading, regex)
-- [Day 6](day5): Regex Murder Mystery (file writing, regex continued)
+- [Day 6](day5): Regex Murder Mystery Part 2 (file writing, regex continued)
