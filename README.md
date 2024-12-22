@@ -7,5 +7,5 @@ I want to learn Rust, and I have a month-long winter break to work on it. This m
 - [Day 2](day2): Creepy Dating
 - [Day 3](day3): Primes from 1-100
 - [Day 4](day4): Rock, Paper, Scissors
-- [Day 5](day5): Regex Murder Mystery (Part 1)
-- [Day 6](): Regex Murder Mystery (End)
+- [Day 5](day5): Regex Murder Mystery Part 1 (file reading, regex)
+- [Day 6](day5): Regex Murder Mystery (file writing, regex continued)
