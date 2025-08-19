@@ -1,3 +1,6 @@
+> [!NOTE]
+> I wasn't able to complete this project due to time constraints. Look forward to project revamp this year!
+
 # 30 Day Rust Adventure
 
 I want to learn Rust, and I have a month-long winter break to work on it. This month I'm challenging myself to make one small rust project every day, until I'm familiar with the language.
